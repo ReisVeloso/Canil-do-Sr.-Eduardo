@@ -1,5 +1,5 @@
 {
-   "checksum": "5e731acc4947000ff45938ba7c4d0f1c",
+   "checksum": "287b2f68bc5352841e865613b10283ca",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -8,8 +8,6 @@
             "guid": "74694c6d-62ef-4b7c-9525-2a8ce048c160",
             "id": "34",
             "name": "GamesTorrents | Descargar Juegos Gratis Torrent",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "https://www.gamestorrents.to/"
          }, {
@@ -18,8 +16,6 @@
             "guid": "d5121c1c-db86-4a52-82e9-cd0586838cb4",
             "id": "35",
             "name": "Indez - livro de Bartolomeu Campos de Queirós",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "http://www.stellabortoni.com.br/index.php/artigos/1197-ioiiz-livao-ii-baatolomiu-iampos-ii-quiiaos"
          }, {
@@ -28,8 +24,6 @@
             "guid": "78dfb98d-d8a0-47e8-9059-9fb0a537a0f4",
             "id": "36",
             "name": "Game Boy Repair - iFixit",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "https://pt.ifixit.com/Device/Game_Boy"
          }, {
@@ -38,8 +32,6 @@
             "guid": "9086ed9f-6044-4fdc-97b0-5b9dc0cb0fc3",
             "id": "37",
             "name": "A Guide To using IMU (Accelerometer and Gyroscope Devices) in Embedded Applications. – Starlino Electronics",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "http://www.starlino.com/imu_guide.html"
          }, {
@@ -48,8 +40,6 @@
             "guid": "ad38c0bb-81e8-4647-a67e-9380329d1d15",
             "id": "38",
             "name": "Mouser Electronics Brasil - Distribuidor de componentes eletrônicos",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "https://br.mouser.com/?gclid=EAIaIQobChMIsLiVjd3Z3AIVywOGCh1TsAIaEAAYASAAEgIw_PD_BwE"
          }, {
@@ -58,8 +48,6 @@
             "guid": "741cc9c0-91dd-49a4-8b2a-eaa648636828",
             "id": "39",
             "name": "bibliografia fundamentos de fisica quantica - Google Drive",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "https://drive.google.com/drive/folders/1P3XU30K7_G3vmM7mL7xqnKhMnszsLhGJ"
          }, {
@@ -68,8 +56,6 @@
             "guid": "a4f25939-2422-42be-824b-b6effe166374",
             "id": "40",
             "name": "HP Prime Science and Engineering Programs",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "https://www.hpcalc.org/prime/science/"
          }, {
@@ -78,8 +64,6 @@
             "guid": "925d1472-3bf6-44b4-b749-8a0c4f909846",
             "id": "41",
             "name": "Flip Flops | Mouser Brasil",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "https://br.mouser.com/Semiconductors/Integrated-Circuits-ICs/Logic-ICs/Flip-Flops/_/N-6j78b"
          }, {
@@ -88,8 +72,6 @@
             "guid": "d3ee150f-1dbd-4124-b426-33c79f402376",
             "id": "42",
             "name": "ENGENHARIA - Google Drive",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "https://drive.google.com/drive/folders/1Qr_WqmYn0etU7xYtq77CRhcX5oJ96LTE"
          }, {
@@ -98,8 +80,6 @@
             "guid": "1949a8ac-dfd6-4a60-b338-09f143224937",
             "id": "43",
             "name": "Conversão Arquivos - Google Drive",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "https://drive.google.com/drive/folders/10mbiv5jSuXTYLlhUn7dkiI43Ohj0fJzG"
          }, {
@@ -108,8 +88,6 @@
             "guid": "c8504b26-ca18-4fc4-9483-b7b584840ebe",
             "id": "44",
             "name": "(9) Tutorial como colocar música no Guitar Hero 3 para PC - YouTube",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "https://www.youtube.com/watch?v=N2CUs-icNRY"
          }, {
@@ -118,8 +96,6 @@
             "guid": "6b42af3f-5b53-4171-a333-fe03446d22b6",
             "id": "45",
             "name": "CSS: centralizando coisas",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "https://www.w3.org/Style/Examples/007/center.pt_BR.html"
          }, {
@@ -128,8 +104,6 @@
             "guid": "98f5a325-d0b8-4e6c-a36d-56025a1beb9b",
             "id": "46",
             "name": "Unicode and multilingual support in HTML, fonts, Web browsers and other applications",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "http://www.alanwood.net/unicode/#links"
          }, {
@@ -138,8 +112,6 @@
             "guid": "a2e28f2f-b99d-4f82-933b-4ee99f54a624",
             "id": "47",
             "name": "Engenharia de Software Moderna (Livro Digital)",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "https://engsoftmoderna.info/"
          }, {
@@ -150,7 +122,6 @@
             "guid": "20baaaba-7bd4-44b3-ac79-a1ae1d93e569",
             "id": "48",
             "name": "New folder",
-            "source": "unknown",
             "type": "folder"
          }, {
             "date_added": "13356920864420890",
@@ -158,8 +129,6 @@
             "guid": "1daae7cc-553e-4862-ab4c-240f48289912",
             "id": "49",
             "name": "streetsidesoftware/cspell-dicts: Various cspell dictionaries",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "https://github.com/streetsidesoftware/cspell-dicts"
          }, {
@@ -171,8 +140,6 @@
                "power_bookmark_meta": ""
             },
             "name": "English Learning Materials by Engoo",
-            "show_icon": false,
-            "source": "sync",
             "type": "url",
             "url": "https://engoo.com/app/materials/en"
          } ],
@@ -181,8 +148,7 @@
          "date_modified": "13357787355385657",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
-         "name": "Favorites bar",
-         "source": "unknown",
+         "name": "Barra de favoritos",
          "type": "folder"
       },
       "other": {
@@ -194,8 +160,6 @@
                   "guid": "13362b71-bdd5-4518-990c-4eff5eee4035",
                   "id": "9",
                   "name": "Bomba Filtrante Piscina 5678 Litros / Hora 110V com Filtro - Intex | Carrefour",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "https://www.carrefour.com.br/Bomba-Filtrante-Piscina-5678-Litros-Hora-110V-com-Filtro-Intex/p/MP10854515"
                } ],
@@ -205,7 +169,6 @@
                "guid": "e56bb593-7f9c-4c6e-a8b3-0ec8a0a458ac",
                "id": "8",
                "name": "Grupo 2",
-               "source": "unknown",
                "type": "folder"
             }, {
                "children": [ {
@@ -214,8 +177,6 @@
                   "guid": "5c271449-402c-4723-894c-473f74561a40",
                   "id": "11",
                   "name": "Manta Lã de Vidro - Portal da Acústica",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "https://www.portaldaacustica.com.br/colecao/5?gclid=EAIaIQobChMIlMqxqruV6QIVjIiRCh01dApoEAAYASAAEgJURPD_BwE"
                }, {
@@ -224,8 +185,6 @@
                   "guid": "121a3eb6-3e4a-4792-a577-ec4ef8f2c52a",
                   "id": "12",
                   "name": "Manta Térmica para Telhado 2 faces | Disfoil",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "https://www.disfoil.com.br/manta-termica-para-telhado-disfoil-2-faces-50m2?utm_source=GoogleShopping&utm_medium=Site_XML&utm_campaign=GoogleShopping&mprice=151.96&gclid=EAIaIQobChMI7Ine_bqV6QIVFgaRCh1oHQl5EAYYASABEgLGDPD_BwE"
                }, {
@@ -234,8 +193,6 @@
                   "guid": "476f4541-cf0c-4daf-8f31-233ebca77c48",
                   "id": "13",
                   "name": "Tecido Fibra de Vidro | Asalit",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "https://asalit.com.br/produtos/fibra-de-vidro/tecido-fibra-de-vidro/"
                }, {
@@ -244,8 +201,6 @@
                   "guid": "fbda5ed7-98c1-441d-8a06-008ef9e667f1",
                   "id": "14",
                   "name": "Tecido de Fibra de Vidro para isolamento térmico | Fibertex",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "http://www.fibertex.com.br/produto/tecido-de-fibra-de-vidro-para-isolamento-termico/"
                }, {
@@ -254,8 +209,6 @@
                   "guid": "6bbf8f59-50d5-4319-ac51-44db2e4cd416",
                   "id": "15",
                   "name": "Vantagens de utilizar lã de vidro no isolamento térmico e acústico",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "https://amplitudeacustica.com.br/la-de-vidro-isolamento-acustico/"
                }, {
@@ -264,8 +217,6 @@
                   "guid": "08b5856e-777a-41d6-bec2-4575a3770a71",
                   "id": "16",
                   "name": "lan de vidro - Pesquisa Google",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "https://www.google.com.br/search?ei=MY2tXpeNMY675OUPp5GPkAI&q=lan+de+vidro&oq=lan+de+&gs_lcp=CgZwc3ktYWIQAxgAMgQIABBDMgIIADIECAAQQzICCAAyBAgAEEMyAggAMgIIADICCAAyAggAMgQIABBDOgQIABBHOgUIABCDAToECAAQClD-uAVYrskFYJHUBWgAcAN4AIABd4gBnAaSAQMwLjeYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab"
                } ],
@@ -275,7 +226,6 @@
                "guid": "8ff7a1d8-1f05-42a2-9629-f15eb8492370",
                "id": "10",
                "name": "Grupo 3",
-               "source": "unknown",
                "type": "folder"
             }, {
                "children": [ {
@@ -284,8 +234,6 @@
                   "guid": "c6ef42bf-caed-4a93-b8d4-6406fab904e4",
                   "id": "18",
                   "name": "🎮 Como Baixar e Instalar Call of Duty WWII Multiplayer + Nazi Zombies (PC) Português PT-BR - YouTube",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "https://www.youtube.com/watch?v=lG2P4mVl4ME"
                } ],
@@ -295,7 +243,6 @@
                "guid": "1114b7dc-f23f-4807-a65f-c98cab4391f4",
                "id": "17",
                "name": "Grupo 1",
-               "source": "unknown",
                "type": "folder"
             }, {
                "children": [ {
@@ -304,8 +251,6 @@
                   "guid": "07246df1-24af-460a-9665-7de3d784ef87",
                   "id": "20",
                   "name": "Esta página está com problemas para carregar",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "ms-appx-web://microsoft.microsoftedge/assets/errorpages/acr_error.htm?NTPUrl=about:start#https://www.el-component.com/mosfets/irf3205"
                }, {
@@ -314,8 +259,6 @@
                   "guid": "c105173b-b734-4250-9023-76815941246e",
                   "id": "21",
                   "name": "Esta página está com problemas para carregar",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "ms-appx-web://microsoft.microsoftedge/assets/errorpages/acr_error.htm?NTPUrl=about:start#https://www.electronica-pt.com/forum-eletronica/componentes-datasheet/66887-equivalente-ao-irf3205"
                }, {
@@ -324,8 +267,6 @@
                   "guid": "a92116c0-c0f3-49d8-8f58-5a62453c3177",
                   "id": "22",
                   "name": "Esta página está com problemas para carregar",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "ms-appx-web://microsoft.microsoftedge/assets/errorpages/acr_error.htm?NTPUrl=about:start#https://alltransistors.com/mosfet/transistor.php?transistor=2363"
                }, {
@@ -334,8 +275,6 @@
                   "guid": "d94ad630-2e35-4ff5-a48d-6b27650d1dec",
                   "id": "23",
                   "name": "Esta página está com problemas para carregar",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "ms-appx-web://microsoft.microsoftedge/assets/errorpages/acr_error.htm?NTPUrl=about:start#https://www.google.com.br/search?q=irf3205%20equivalente&ved=2ahUKEwiy2t-E7JrpAhVKbKwKHaQeC-AQmoICKAF6BAgNEAg"
                }, {
@@ -344,8 +283,6 @@
                   "guid": "650b5e7e-6000-4137-861e-6385c7fecd08",
                   "id": "24",
                   "name": "IRF3205 Datasheet, PDF - Alldatasheet",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "https://www.alldatasheet.com/view.jsp?Searchword=Irf3205&gclid=EAIaIQobChMIjdfphOya6QIV8PfjBx1N8ggUEAAYASAAEgJJ2fD_BwE"
                }, {
@@ -354,8 +291,6 @@
                   "guid": "245b41aa-cdf2-459f-a99c-ce8940e6ca8b",
                   "id": "25",
                   "name": "IRF3205 datasheet(1/8 Pages) IRF | Power MOSFET(Vdss=55V, Rds(on)=8.0mohm, Id=110A⑤)",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "https://html.alldatasheet.com/html-pdf/68131/IRF/IRF3205/46/1/IRF3205.html"
                }, {
@@ -364,8 +299,6 @@
                   "guid": "59bf16d3-0f4b-4307-a046-7b152c7cc31b",
                   "id": "26",
                   "name": "CFW2OFW Compatibility List - PS3 Developer wiki",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "https://www.psdevwiki.com/ps3/CFW2OFW_Compatibility_List"
                }, {
@@ -374,8 +307,6 @@
                   "guid": "aeb02268-b3a9-45c1-bc80-9efd577d3aba",
                   "id": "27",
                   "name": "EasyEDA(Standard) - A Simple and Powerful Electronic Circuit Design Tool",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "https://easyeda.com/editor#id=845d4ce648b84af894d4f94d7d58bb9f|89899d59742c4c1c9aa5e0810e75af55"
                }, {
@@ -384,8 +315,6 @@
                   "guid": "8f4716c0-de2b-4b9c-8b59-e28dcf36ba88",
                   "id": "28",
                   "name": "https://genesis-design.web.app/#/login",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "https://genesis-design.web.app/#/login"
                }, {
@@ -397,8 +326,6 @@
                      "power_bookmark_meta": ""
                   },
                   "name": "Curso Básico de Gaita Diatônica - Cifra Club",
-                  "show_icon": false,
-                  "source": "sync",
                   "type": "url",
                   "url": "https://www.cifraclub.com.br/aprenda/gaita/tutoriais/135/23"
                } ],
@@ -408,7 +335,6 @@
                "guid": "cc209b7f-1fe2-43df-b2bc-2354ac72706d",
                "id": "19",
                "name": "Grupo 4",
-               "source": "unknown",
                "type": "folder"
             }, {
                "date_added": "13350401119311297",
@@ -419,8 +345,6 @@
                   "power_bookmark_meta": ""
                },
                "name": "Documentação do C# – introdução, tutoriais, referência. | Microsoft Learn",
-               "show_icon": false,
-               "source": "sync",
                "type": "url",
                "url": "https://learn.microsoft.com/pt-br/dotnet/csharp/"
             }, {
@@ -431,7 +355,6 @@
                "guid": "b88b475c-4610-4fcd-9fc5-5f92073bb612",
                "id": "31",
                "name": "New folder",
-               "source": "unknown",
                "type": "folder"
             } ],
             "date_added": "13233957715592354",
@@ -440,7 +363,6 @@
             "guid": "8d0ad798-540d-4c12-a2d0-001a78a38348",
             "id": "7",
             "name": "Guias reservadas",
-            "source": "unknown",
             "type": "folder"
          }, {
             "children": [ {
@@ -452,8 +374,6 @@
                   "power_bookmark_meta": ""
                },
                "name": "GitHub - public-apis/public-apis: A collective list of free APIs",
-               "show_icon": false,
-               "source": "sync",
                "type": "url",
                "url": "https://github.com/public-apis/public-apis"
             } ],
@@ -463,7 +383,6 @@
             "guid": "649716e5-0c7c-427b-bd2f-32158fc02c9d",
             "id": "32",
             "name": "programing",
-            "source": "unknown",
             "type": "folder"
          } ],
          "date_added": "13360107151248584",
@@ -471,8 +390,7 @@
          "date_modified": "0",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
-         "name": "Other favorites",
-         "source": "unknown",
+         "name": "Outros favoritos",
          "type": "folder"
       },
       "synced": {
@@ -482,11 +400,9 @@
          "date_modified": "0",
          "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
          "id": "3",
-         "name": "Mobile favorites",
-         "source": "unknown",
+         "name": "Favoritos nos dispositivos móveis",
          "type": "folder"
       }
    },
-   "sync_metadata": "CjEKDgiIgQISCJetunOPAQAAEgAqGGJkOHJOR1Q4cEQxV3Z4THM2VEhzd3c9PUgDoAYMEqoBCDASpQEKHC8xdnJkb3hoaDd1bmpXWFM1T2JnWWVBMmp0Yz0SJDIwYmFhYWJhLTdiZDQtNDRiMy1hYzc5LWExYWUxZDkzZTU2ORgAIAAoADCimeCl3zE4pJvgpd8xQKSb4KXfMUocZnUrMEpObTR6OUN5YitNbE00ZnZEWVJsbmVvPVohIh///9lwTzFVWFBOYlROVk1EWEU5K3YvOFkvaGxydXM9ZQAAAAASqQEILhKkAQoceGYzTkErd3pQRDFIdWZFMzNtZTl5NGVUWnc4PRIkNjlkM2M3MjEtNzljMC00YmVjLTliN2EtMjcxNzVmYWUxYzZlGAAgACgAMMHNwcG8Lzj48+7Q5y9A+PPu0OcvShxJcHNCbkRrTzhDSEw2UmdzUFdzRC8zWnJCMDA9WiAiHv//ZHB1TmNNZmd0NUM1U3ZVeHd5R1lhaHloZ3NrPWUiER9aEqkBCC0SpAEKHHFKaGtZKzlxKzBiV0pMb1kybG5GY01SRk5OUT0SJDc4ODEyNTM2LTBiODctNGZjMC05OWEwLTM4NjE1OGY5MGUwNxgAIAAoADDBzcHBvC841vTu0OcvQNb07tDnL0ocenU1MjY4YU5VaktyZ1kvOCtLMnlQbGcrRHpBPVogIh7//nEvd2thN2VPVFRiZW9SWGpaQlplUXViK21aZz1ln4qCXxKpAQgsEqQBChxlVUMyYjI0UnZIRHl2R2Uzb1VrcEVYRHZOVVk9EiQxNGE1YTk0Ni03ODE4LTRhMWYtYjE0NS0wNTI5YjhmOTBjZDQYACAAKAAw1ZrTwd4xONTw7tDnL0DU8O7Q5y9KHHpVd0U2bFQwUGlSbmlaSkd1RDM5ZEZMVldmWT1aICIe//1SdHNPOGtrUTFNNEFOemVxSHFPVkczTDZuZG89ZdjWavQSqQEIKxKkAQocQitTOEwwajg0RVpsL0lkYnZ5ekpZWEwycUpNPRIkOTdhMzQ1YjEtY2IwZS00ZTJjLWFkOGUtNjMwYWU2ZDY1YTA5GAAgACgAMMHNwcG8LzjD9e7Q5y9Aw/Xu0OcvShwzcnB6VUY5dmJXMWVyU2JaVXpKUTRpWjVuRUE9WiAiHv/6eGg2MEhtV2RHMS90MGt1Yi9kVjFORWtRYWc4PWW6CixREqkBCCoSpAEKHEpOZHA5a3JuRlVwMXBidnpqQWU1U1crNWxrMD0SJDVkMmM3MmExLWJkZGYtNGZjYi05NTIzLThhZGI1NmYyMDEzYRgAIAAoADDBzcHBvC84i/Pu0OcvQIvz7tDnL0ocRW9nTUNrUXpNbDluZjkxOTBaQ29rYlYwcGM4PVogIh7/9VZISzFDL0VaTXFYNXI0b3EydUdJeHFmQWZvND1lugosURKpAQgoEqQBChw4SFZKNy9EL3J2bGZQWU5nTFdwTmZFME55Skk9EiRlNjJhMmJhMS02NTA3LTRjMTgtODBmYi0xOGVjYjI1ZTZjMWQYACAAKAAwwtiC8tEwOP727tDnL0D+9u7Q5y9KHHdRQSt2QnBjWFQ1SWY0SWtkT3d4emxOWWx2az1aICIe/9Zrai9aMjU5eEJLNnJGaFRMVFdobHhBU3ZWMFk9ZWWaMDoSqQEIKRKkAQocenROYVdGbUI3UHk0VitQcXRRVjJzYnFZWERRPRIkZTc5NjkwYjEtNDI3ZS00NDhkLWIyMjQtNjI0M2E2Yjk4MjQzGAAgACgAMMHNwcG8Lzjs9+7Q5y9A7Pfu0OcvShxEMG5adEVmenJaYmNFMWJRdDdla1U0eVg2M1U9WiAiHv/rUmRaaVRXdHZtWk9aRTZuSEpQdkVIZFNMRVRNPWX7uBCrEqgBCCYSowEKHFFKamJkNXVJcnB1TjBnVE9IaHp2SWpSVVNFTT0SJGQ4ZmEzMjI5LWJkMmItNGE2OC05YzdlLWZiOTg4MTBiODc0MBgAIAIoAjDs0uqd9zE4ofbu0OcvQKik6p33MUocRkxOWmVzZWhhYnRVOWovV3lhUHhjTFZ3d0I4PVofIh3/WmlqVFlpTTUzNnBabWU1NWJRVXlVQ05vNkRJPWX7uBCrEqgBCCQSowEKHFdJTmUxbEM3bG5ZVG9rbEhrL2dCVGNYWmYvWT0SJGE3NGZkMzUyLTgyZmUtNDBiYy05ZWViLWMzYWZjZGNhYmUyMxgAIAIoAjDr0uqd9zE4qf3u0OcvQKak6p33MUocOVVRT3hOSjlxT2NNVlB5N25aZDZkVlBGVVg4PVofIh39dm91akZRSHgvWWNmSkw4cEhpMi94VGJBUEFNPWV1hMIBEqgBCCMSowEKHGsvdHZXczErU0UzYXNxUmdTRmlrUTFtM2c3bz0SJDZmOGFmNThmLTg1MjQtNGY3MC1hNGU5LTBmOGQwODEwODM5ZBgAIAAoADDpmZSloS44trnt0OcvQLa57dDnL0ocNlc5Q3YvS2tINnFtTTgzT2pnTXJWV0g3YXJ3PVofIh37dW05M1RrQ1Q2dkQzTmpYWUxLczNhU0FBdnJjPWUAAAAAEqgBCCISowEKHDNZTTBFa1ZqZisrOGYyUDRxSXdUMWtYY2Faaz0SJGZkMmRiMjgxLTZhNmEtNGU5My04Mjc5LTM3ZWM2YTQ2Mzg5MhgAIAIoAjDq0uqd9zE4lP/u0OcvQKWk6p33MUocNFR3d3pHV1lXMmFHdkJTV3lRZ2M1UW84aXljPVofIh3tdFdiQWpVLzUwaUdNS2tQT0dWdjRwNEpLb1lNPWXiJDhjEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDM5MzU4MzhiLTgwOTEtNTQyZi04YzM3LTI1Y2U0Y2JiNGY2ZhgAIAAoADDa/4uloS441rPt0OcvQNaz7dDnL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASpwEIIRKiAQocMURrYTVYck9WWnYvLzc2SlRVSENlckVQcHowPRIkNTQ3MWEwYzAtNGY0Yy00YjVlLTg4MjgtZDZhYjEyNzVjOWEzGAAgACgAMKGZ4KXfMTiY7t2l3zFAmO7dpd8xShxCcFM0NnBiSE1GSEorR2V6Um9SUUQvT3JER3c9Wh4iHFYyMlp6cTFRb3VEOGJlNXNRaWJoMEdia1lOND1lwKUouhKoAQgeEqMBChxhNHRPT2pFbDN1LzBIR241bm8vdjdMNzlUYWM9EiQxYmJkY2JmNy0yZjBjLTQ1ZjUtODYwNi0xZTc2MWRkNzQ4MDUYACAAKAAwotfRidMxOO7t0InTMUDu7dCJ0zFKHFZrTWRrSzhxOG9HWmV0dWJhSk1xQVZPanZFZz1aHyId2ktNS0hibXQ0MmFlYlFaYm1VRXgzczlheVJXST1lpxzSGRKoAQgdEqMBChxxVE1qbVk0aHk3ZjhMTzZPV2x2SHIyOGFjWm89EiRjOGUxZTg1Yy04M2NlLTRjODEtODc2NC0zMmE3ZTJmMjhjZjgYACAAKAAwtqqYqdExOMyumKnRMUDMrpip0TFKHHZNaVdDai9kWFdxVmNOVmE0UDZFMWpZem1KWT1aHyId/lB2TzVpZnA3SU1aQXg2MXpHODg4QzdVNEtXRT1lEApnFRKqAQgxEqUBChxES0hsZkRUOXpCZStzVXRaNVdSdUdzVzY2czA9EiQxZGFhZTdjYy01NTNlLTQ4NjItYWI0Yy0yNDBmNDgyODk5MTIYACAAKAAw1r++rusxOOLBvq7rMUDiwb6u6zFKHHdHMHJGdlpyN2NpSUpGYUh3Q3lLRlJ4WUwwVT1aISIf///sS1crR096NzBpODlnSDY3RE9HbkNsZlhGOGVnPWXApSi6EqgBCBwSowEKHHJLaFIwMkZNUEVBVXBhWUt5N1A5cUxBM081OD0SJDhmNDcxNmMwLWRlMmItNGI5Yy04YjU5LWUyOGRjZjM2YmE4OBgAIAAoADCdpaKdzTA4/qWinc0wQP6lop3NMEocRUVxUW5pQ3NEemk0d2N1eWpPQjB0R21lcS84PVofIh39UVpkSFRGNGEzTHIvMGIzVGRYaWZpWXBDdGlnPWWypPl6EqgBCBkSowEKHDVqU0tPbWMzelpGeEF2cm0wVDJRY0ZNUFBGRT0SJDE5MjIxZGM3LThkNzItNDU5ZC1iYzU1LTZkOTRjNTJhNTI4MBgAIAAoADDUv5SloS44287t0OcvQNvO7dDnL0ocMnNFOXhFYnh1VlVpRWhqd0hqMWRtUHJSSjFVPVofIh3uUDF1djhYVjVQR0xFZXBXUVBWeEJYL2RielUwPWXH2GnEEqgBCCUSowEKHDAra3ZTZFh2MGg3OFdDQzZvam82WUpPRVhOND0SJDQxMGQ0YzJlLTZkNWYtNDExMS05ZGRlLWE4OWNhMDYyNjAwOBgAIAIoAjDp0uqd9zE4kvru0OcvQKek6p33MUocNWVWSyszUGc4NWg5cTVXNnFQVnRTRy8zZStRPVofIh3+WE5rczRxd0VMWnZMOXlid0pzR25pTjJiUWtvPWXP0TviEqgBCCASowEKHHlvNkthNmcvZk9Zc1JmeExvU0VDZmZUcndobz0SJDY0OTcxNmU1LTBjN2MtNDI3Yi1iZDJmLTMyMTU4ZmMwMmM5ZBgAIAAoADCgmeCl3zE4+prgpd8xQPqa4KXfMUocMVZOU0d4WUJ3M25hK0dybG8ya0VYeFVsQnBrPVofIh2mRndaU21LajBVVUJ0dWp2OVYzbG1RQmlnRkdrPWUAAAAAEqcBCAsSogEKHE1UbDdZWjF1M0p4ME9jNlZlRUt6cE50aTJVZz0SJDgzMmVhZGNmLWUxMGMtNDllNC04ZmNjLTQ1M2FhMTQyNDliMBgAIAAoADCOrZSloS44r8bt0OcvQK/G7dDnL0ocRmxnTm1qSmlCZHJjK3VySUhkK2YzRVUwZ2djPVoeIhw0QWRpdG1XWC9menBHbWhBUkUyRys0UVpRelk9ZQAAAAASpwEICBKiAQocUllqbzkzL01ZZ05HQmlXR0xyS1paUktMYkhnPRIkMjZlZGU2Y2QtZDA2Yy00NWZlLWI3ZDUtNjk1YzE2OWEzY2E2GAAgACgAMK+jlKWhLjiwwO3Q5y9AsMDt0OcvShxDeGI3SituRWxWcWFLdVg0dGlSR0laQVIzWEU9Wh4iHGVqdzVOTCtDTmk4UE1ZaFpaRnEya3NGY3Bqcz1lAAAAABKnAQgSEqIBChw2TlgvcUE4aDBBMXRsQ1lraEpjVEIzcmJZRTA9EiRlMjg4MmVmMC02MWE5LTRiYTAtODdkYS0wNjM0OWRmMzFkNDIYACAAKAAwjfPc+tIvOMbg9NDnL0DG4PTQ5y9KHE5MNHFjY2I5U045MjRrN1FyRko0Z1RrNEk2az1aHiIcbkV3WlVrakk2UFJVcTFXWExFalhScXc1NDN3PWU4+TkzEqgBCBoSowEKHDJWSjY1VDZWN0U2SHJRb3JNdTcyT0c0K1Q5Yz0SJDU5YmYxNmQzLTBmNGItNDMwNy1hMDQ2LTdiMTUyYzdjYzMxYhgAIAAoADDenLf2nS84tbnu0OcvQLW57tDnL0ocQnBDMjBZeHdiTmJHM3YreWpHc1MvZ0FCR3g0PVofIh33VGlpNkJzVng1bnUzZk8zZk5OYUpLdS9sb2tnPWWTMRYAEqgBCBgSowEKHFVud05RMlM1Q2xZMnRkYS9weVBXSUlzOXRzOD0SJDdjMDJjMDg2LWUwMzItNGI2MS05NmFiLTYxYzQ1NDlkNDI1NxgAIAAoADDWv5SloS44ttDt0OcvQLbQ7dDnL0ocVUUwTVVUZVpVeUlGbnY1REV2M0ROeGMraC9jPVofIh3calVFWi9uMUhTY3lML1hsNXlmTFVvTmZiRU1JPWXH2GnEEqgBCBcSowEKHEE0aEtjTmhEbjVTQWxkNGxNMzdGNFViL2VpWT0SJDAzNDJlOTNmLTgyNGEtNGQ2Mi04MmFmLWE4NTMwODA2YjZhMBgAIAAoADDVv5SloS44uc/t0OcvQLnP7dDnL0ocT2l5cm8vcXBqQWpBN2hPK3JCeVd2MHlqcS9rPVofIh25M2wzelRQWkZxOFlpNkVlSUp6TFdtTUQ1Q1BRPWUAAAAAEqoBCC8SpQEKHDdtUktkYk0zbllzbWJ2NjFYZkczK2dmc01Zbz0SJDQzNmU1MWRjLTIyYTktNDdhZS04MzNkLTQwN2MzYzQ2ODQ3MRgAIAAoADDBzcHBvC84wvHu0OcvQMLx7tDnL0ocTXZOSzBKSlZwUUR3a015dEpEWEp4dWcwbHBBPVohIh///7JLeFdYVHN4RlpyQlJRbURJc2FLYWV2Q3FFZlE9ZVcSOrMSiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkNDQ3YmM1ZjAtZjM1Zi01YjE0LWFhYmMtZDM5NTI5OWJhYWMxGAAgACgAMN//i6WhLji5uO3Q5y9Aubjt0OcvShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKnAQgUEqIBChxEdnVoTWs5anpycjhUZUJEa0pYSy9MRlpLNmM9EiQzMWYzZjBkNS02ZDU0LTRmZjMtYjEyZi01YmY3YTkyMmRiNzgYACAAKAAws7aUpaEuOP7L7dDnL0D+y+3Q5y9KHEJLbVlwZ05mbng5aFJtTHRoVUJ6SjFOV0NrVT1aHiIcUnUzM3NkVHdMRHovdFU0eWNwOS9NQWhVZTJBPWUAAAAAEqgBCBMSowEKHGtlYU5nTEFhOERBV2xYam4wK29oZVpWaGlFdz0SJDQ3ZTlhODk4LWE3ZGYtNDBlZS1hYzBiLTZmMzliYWQyYjBkYhgAIAAoADCytpSloS44gcvt0OcvQIHL7dDnL0oceGx5bmpueXBraHNaekNJWm5CbnhSTnFJbFhVPVofIh21NjE5ektXRjN4czQ3bVpuQ1c0VkxpSEVmRkFrPWUAAAAAEqcBCBESogEKHHRVd3VZZlRDZjR5Z0RBQmlSdGc0ZjM3Uk4ycz0SJDY2MDcwYWE5LTVjZDUtNDc2ZS05ZGFmLWVhMWFkMTE0ZDkzNhgAIAAoADCto5SloS44w7/t0OcvQMO/7dDnL0oca2ZKYnpLNGRJM1F2Qm9lSVRmVUlqQTh3SFA4PVoeIhx4eG5TelpidDdkUGV0MjJqMzhva3ZPRmF6TDQ9ZQAAAAASpwEIFhKiAQocTitiSzJ4dnZmZFFac1JXZndDVUt3UktvbkRBPRIkY2ZjMDc0NDgtMTFkZS00MWU0LTk2ZDQtZjFjNWRlMGNkMGFiGAAgACgAMNe/lKWhLjiF0e3Q5y9AhdHt0OcvShxIK09LdXcvRmdZMGd1Vy8zUHVZRGxVdzkvWjQ9Wh4iHHIyalFFMGt0U1FlaGkwdzBxOE9wTjlYUUcyVT1lAAAAABKoAQgQEqMBChw1TmhDVFp3S1lkWm9kUWxxVjUvVXY4TE4ycXc9EiQxZDI1MmQwYi00YmNhLTQ5ZGQtYmFmMS0yNGYwMmNjYTBkZjkYACAAKAAwsbaUpaEuOJPK7dDnL0CTyu3Q5y9KHGFmZGxoT3crZGF2RGxUR1JJV1RXaVBKMVdnVT1aHyId9zFOcnN2aXZkZFpkVlE3eFJDbFhoaktiS2x5ND1lEDD/5BKoAQgfEqMBChxCYmduaENuY3MzRVgwbWl2aXU3cTF2VTYvU3c9EiRiODhiNDc1Yy00NjEwLTRmY2QtOWZjNS01ZjkyMDczYmI2MTIYACAAKAAwn5ngpd8xONaa4KXfMUDWmuCl3zFKHHgya2xIOWRhSVRFc0U2Zjk3cGQ0TFNGM3pSbz1aHyId9jV1eHFZSGNVd0xQNVg4TDBuTVdlWWhnQlYwaz1lAAAAABKnAQgVEqIBChxnbjZjNlhvYzhMMDJGWG9jajJNbWJxcXZMNkU9EiQ2NTE3YWE4Mi00ODRlLTRiZDQtODUwMi1kZjRkN2NjNzgzMjEYACAAKAAwtLaUpaEuOOfM7dDnL0DnzO3Q5y9KHHZwT2cwRUI5Yko4b3NhUmcxU0YwOXNuem1EQT1aHiIcbXZzSXNONVNyR1k0b0YrWWFEdFNmcDRjalpRPWUAAAAAEqgBCA4SowEKHFZrTTNHMDg4V0swNTBTN3puNjhiMm03MDFqZz0SJDU3NTAyYTdlLTZhYzUtNGQyNi1iNWJiLWNhZWU4YjY0ZTFiNhgAIAAoADCRrZSloS44yMjt0OcvQMjI7dDnL0ocL2VjbzhHWmVSaDY5Q2RBejJMU0lZWE03ZFZRPVofIh3eOGI0c29OajJkWXF0Zk56OEtvTG10SUxDamR3PWUlXMPGEqoBCDISpQEKHDk0ZkM3bmh5NjR5WldEcmJGWWRPTFYxWEpudz0SJDA4NDQwYzhiLTVmMGUtNDRiMC05YmMxLTk4YWNiOWNiMzE0ORgAIAAoADCIqt/r8DE4iPbUy+4xQIj21MvuMUoccExyZ29oUlE1Wkx4TklucmFVaXNDN0Z2dmFRPVohIh////YrMzNJNTlmZ0JxYlhXeXNIdG8zRWZoajBCZ3M9ZdAj/NwSqAEIDxKjAQocS0pKM082Z2E0L0FWTFFvbHBxQUFxNFJ4WVhJPRIkMWY4NzE3MTEtMDJhZS00ZDYzLThiMDctOWE5OGJkODhmZDFhGAAgACgAMNi/lKWhLjiC0u3Q5y9AgtLt0OcvShxEM2NiWmVyVkZEMU5VSFNsL2VMN1JLMzhGdTg9Wh8iHe9VT1FqSTVKdFNnby9PM29EaThGekpQQVl2NVE9ZZPofwESpwEIDBKiAQocRThIVHc2Yml4c0tkVlZUczFZOW9FRlFIbzBzPRIkOTFjNjFmZmMtMzE0OC00ZjMzLThlNzYtZGFjYzUxZmUzYzYzGAAgACgAMI+tlKWhLjiNx+3Q5y9Ajcft0OcvShxzVzE5aDJ4YmEwUWlrUVRydHlwQ3ZESGtWeGc9Wh4iHHhPQUJBTTEwcENrY2t3RUEyaXhIY1BuSkxlST1l/tFHmxKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ2YzQ2MTY2Ny05NDU4LTUwMTgtODk5Ni03ODkzY2UxNGM4NGYYACAAKAAw2/+LpaEuOMS07dDnL0DEtO3Q5y9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqcBCAoSogEKHEpVV05LWXZRNUJvcGFxMjY5alIrSUVaaDZKRT0SJDdlNWYwOTlmLTZhZjEtNDYyYy04MDFjLTY3NGNhZDE5NGQxNhgAIAAoADCNrZSloS44jsHt0OcvQI7B7dDnL0ocRjN0SythSkVCdERBMWVGa1N2UDVmSzRTeGhNPVoeIhxrMzU4U1JoQTRqNnRSZzdsaEJzQ2J3MGpoK3c9ZQAAAAASpwEICRKiAQocWnNtaTgyYytRMERzNW9sNjdVbko0SGZ1Q04wPRIkN2IwZDVmNmEtZDgwYi00NzgyLWE2YzctNmJiMjI3MDM4NzI1GAAgACgAMLC2lKWhLji2ye3Q5y9Atsnt0OcvShxMNXp0dERLbHVGaW0wc3JTR3JVNXJmdlFob0U9Wh4iHHhRM3d0UDZsQnFSQjIwMnlXUjVhY2xueCtDZz1lqI+bHhKpAQgnEqQBChxiajVNY3JTZ256VGEvd2ZOSTBISWF1OTFtM1k9EiQ0ZDU0ZjdhMS04MWUyLTQyNzctODI1NS1hMGVjNGY0ZWQwMTcYACAAKAAwv9iC8tEwOJ/y7tDnL0Cf8u7Q5y9KHDByZkIySGpWOEVWY2hZWjNUUUtrYUNiazJnVT1aICIe/61LbklBbDMzUWJ6cXlnckNNTGp5aHBlQ2loM0k9ZboKLFESqAEIDRKjAQocbXZnQXg3SUZLU3I5NC9lbk9oZ1c0YVMxWW9zPRIkMzljMDk1NjgtNGI0OC00NWNjLWE3ZTgtNjk3YTlkMDQwZjQzGAAgACgAMJCtlKWhLjjrx+3Q5y9A68ft0OcvShxha0Q0dGxya2VOeHRQaEZGU3ZVVlcrL3Y2RDA9Wh8iHbxURVF3ZDgwRWYzbGgwV2NkUnZOSGRxNzdqTEE9Zcv/j1YSqAEIGxKjAQocY3dGS0thejlWd3ZpV1VQWkhrQXdjdVdCNEZjPRIkYWViMDIyNjgtYjNhOS00NWMxLWJjODAtOWVmZDU3N2QzYWJhGAAgACgAMMKNnZbxLzjJjp2W8S9AyY6dlvEvShxaWTlUZVM5Y0tQL0FtVGxFMGNsbUNuSUx6UVk9Wh8iHftvSmFLQmZrcUNmYms4SFhpV25CZFVCSjcvT1U9ZcK6L5MSpwEIBxKiAQocTXVpVkdUVDFSSWhObjRoMnNsRXFWQXp1aUZnPRIkNjViODA0YjQtZjA0ZS00NWZhLWE3MDItODk4MDFjOTA2OGVkGAAgACgAMKyjlKWhLji3vu3Q5y9At77t0OcvShx1U3hSZFBsejVMcHhLd3hHYmZuZXVETFlOYUE9Wh4iHEwvKzZMMXV2d1hpREFCVGFORWpYaW5GOFVibz1lAAAAADAAOAA=",
    "version": 1
 }
