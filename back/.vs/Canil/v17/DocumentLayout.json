@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marki\\Projects\\study\\Canil-do-Sr.-Eduardo\\back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5A5209-655A-472C-AAF0-01D5E9F41C24}|Canil\\Canil.csproj|c:\\users\\marki\\projects\\study\\canil-do-sr.-eduardo\\back\\canil\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A5A5209-655A-472C-AAF0-01D5E9F41C24}|Canil\\Canil.csproj|solutionrelative:canil\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5A5209-655A-472C-AAF0-01D5E9F41C24}|Canil\\Canil.csproj|c:\\users\\marki\\projects\\study\\canil-do-sr.-eduardo\\back\\canil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A5A5209-655A-472C-AAF0-01D5E9F41C24}|Canil\\Canil.csproj|solutionrelative:canil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\marki\\Projects\\study\\Canil-do-Sr.-Eduardo\\back\\Canil\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Canil\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\marki\\Projects\\study\\Canil-do-Sr.-Eduardo\\back\\Canil\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Canil\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T21:33:03.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marki\\Projects\\study\\Canil-do-Sr.-Eduardo\\back\\Canil\\appsettings.json",
+              "RelativeDocumentMoniker": "Canil\\appsettings.json",
+              "ToolTip": "C:\\Users\\marki\\Projects\\study\\Canil-do-Sr.-Eduardo\\back\\Canil\\appsettings.json",
+              "RelativeToolTip": "Canil\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T20:01:24.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
